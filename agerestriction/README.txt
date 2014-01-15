@@ -1,6 +1,6 @@
 Agerestriction plugin for Elgg 1.8
-Latest Version: 1.1
-Released: 2011-11-23
+Latest Version: 1.8.1
+Released: 2014-01-15
 Contact: iionly@gmx.de
 License: GNU General Public License version 2
 Copyright: (c) iionly
@@ -19,6 +19,12 @@ No guarantee of any kind that it works with any other 3rd party plugins. The age
 
 
 Changelog:
+
+1.8.1
+
+- The Elgg core register from is no longer (unnecessarily) overriden (already fixed in version 1.9.1 for Elgg 1.9),
+- German language file added.
+
 
 1.1
 
